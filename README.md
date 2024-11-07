@@ -73,4 +73,5 @@ curl --request POST \
 ```
 ### GET test with curl
 curl http://localhost:3000/receipts/-718398167/points
+
 curl http://localhost:3000/receipts/215879314/points
